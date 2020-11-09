@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9de72de-8d14-4ffe-bfc8-9597c8bf7cdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/config-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a9de72de-8d14-4ffe-bfc8-9597c8bf7cdd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +50,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604910557326</updated>
-      <workItem from="1604910558346" duration="1198000" />
+      <workItem from="1604910558346" duration="1382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604912513076">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="430" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.734@0.0.1366.734" timestamp="1604912513076" />
   </component>
 </project>
